@@ -16,6 +16,7 @@
     "jquery": "^3.3.1",
     "mongoose": "^5.4.9",
     "morgan": "~1.9.0",
+    "nodemon": "^1.18.10",
     "popper.js": "^1.14.6"
   },
   "description": "MongoDB Demo",
@@ -30,4 +31,4 @@
     "@types/morgan": "^1.7.35",
     "@types/node": "^10.12.18"
   }
-  }
+}
